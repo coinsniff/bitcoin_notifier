@@ -30,6 +30,8 @@ and won't start checking or sending you notifications until an hour later.<br/>
 
 ##### Note that the comparison operator only accepts two inputs currently, '>' or '<'
 
+Current supported exchanges: Coinbase, Coinbase Exchange, Bitstamp, Bitfinex, Btc-e
+
 ### Example usage
 ```python
 python main.py '<' 350.52 test@gmail.com 6 coinbase
