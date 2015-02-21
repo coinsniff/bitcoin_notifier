@@ -39,7 +39,7 @@ python main.py '<' 350.52 test@gmail.com 6 coinbase
 Sends a notification once every 6 hours ONLY IF coinbase exchange price is < $350.52
 
 ```python
-python main.py '>' 500 michaeluo@gmail.com 0.5 coinbase
+python main.py '>' 500 ilikebitcoin@gmail.com 0.5 coinbase
 ```
 Sends a notifcation once every half an hour (0.5 hours) ONLY IF coinbase exchange price is > $500
 
